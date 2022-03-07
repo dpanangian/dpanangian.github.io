@@ -267,34 +267,6 @@
     backgroundColor: "rgba(181, 23, 158,0.20)",
     borderColor:  "#b5179e",
     borderWidth: 2
-  },
-  {
-    label: 'Linde',
-    data: [80,100,50,0,20],
-    backgroundColor: "rgba(138, 181, 245, 0.20)",
-    borderColor:  "#005590",
-    borderWidth: 2
-  },
-  {
-    label: 'Siemens',
-    data: [100,80,70,60,60],
-    backgroundColor: "rgba(147, 224, 204, 0.20)",
-    borderColor:  "#00a7a7",
-    borderWidth: 2
-  },
-  {
-    label: 'BMW',
-    data: [0,100,80,60,60],
-    backgroundColor: "rgba(252, 60, 42, 0.20)",
-    borderColor:  "#FC3C2A",
-    borderWidth: 2
-  },
-  {
-    label: 'University',
-    data: [100,80,60,0,0],
-    backgroundColor: "rgba(0, 0, 0, 0.20)",
-    borderColor:  "rgba(0, 0, 0, 0.85)",
-    borderWidth: 2
   }
   ]
   },
